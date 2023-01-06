@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![TaiwoAmao](https://circleci.com/gh/TaiwoAmao/project-ml-microservice-kubernetes
+.svg?style=svg&circle-token=19a8253947c003f514517dbb8f501b2d9bab14d0)](https://app.circleci.com/pipelines/github/TaiwoAmao/project-ml-microservice-kubernetes/7/workflows/71b46683-3161-4c6d-8395-638cd352f34a/jobs/7)
 
 ## Project Overview
 
